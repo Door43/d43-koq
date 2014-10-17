@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[koq:home|Door43 (koq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-koq|d43-koq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-koq/archive/master.zip|d43-koq.zip]]
+
+**Recent Changes**
+{{changes>ns = koq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/koq|Ethnologue data]]
+
